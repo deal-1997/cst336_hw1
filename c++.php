@@ -23,11 +23,11 @@
         <br>
         <nav>
     </body>
-            <a href="index.html">Home</a>
-            <a href="c++.html">C++</a>
-            <a href="javascript.html">JavaScript</a>
-            <a href="python.html">Python</a>
-            <a href="java.html">Java</a>
+            <a href="index.php">Home</a>
+            <a href="c++.php">C++</a>
+            <a href="javascript.php">JavaScript</a>
+            <a href="python.php">Python</a>
+            <a href="java.php">Java</a>
             <p align="center">                
             <img src="img/c++.png" height="450">
             </p>
