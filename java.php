@@ -32,7 +32,8 @@
             <img src="img/java.jpg" height="450">
             </p>
             <br>
-            <p> Java is a class-based, object-oriented 
+            <p> 
+            <ol>Java is a class-based, object-oriented 
             programming language that is designed to 
             have as few implementation dependencies as 
             possible. It is a general-purpose programming 
@@ -50,6 +51,7 @@
             capabilities (such as reflection and runtime 
             code modification) that are typically not 
             available in traditional compiled languages.</p>
+            </ol>
             <div></div>
         </body>
     </html>

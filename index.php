@@ -3,19 +3,13 @@
    
 </html>
 <head>
-        <title> Programming Languages </title>
+        <abbr title="Programming Languages">If you reading this, Internet Programming Is Awesome!</abbr>
         <link  href="css/styles.css" rel="stylesheet" type="text/css" />
    
 </head>
             <style>
                   body {
                           background-color: #382E30  !important;
-                  }
-            </style>
-            
-            <style>
-                  body {
-                          background-image: "programminglanguages.jpg"  !important;
                   }
             </style>
     </head>
@@ -34,7 +28,7 @@
             <a href="javascript.php">JavaScript</a>
             <a href="python.php">Python</a>
             <a href="java.php">Java</a>
-            <img src="img/programminglanguages.php" height="450">
+            <img src="img/programminglanguages.jpg" height="450">
             <p align="center">                
             </p>
             <br>
