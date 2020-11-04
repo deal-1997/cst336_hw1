@@ -33,18 +33,36 @@
             </p>
             <br>
             <p> C++ is a general-purpose programming 
-            language created by Bjarne Stroustrup as an 
-            extension of the C programming language, or 
-            "C with Classes". The language has expanded 
-            significantly over time, and modern C++ now 
+            language that is very popular to use and is
+            one of the easiest language to adapt too. 
+            Bjarne Stroustrup, the creator of C++. The language 
+            has expanded significantly over time, and modern C++ now 
             has object-oriented, generic, and functional 
             features in addition to facilities for 
             low-level memory manipulation. It is almost 
             always implemented as a compiled language, and 
-            many vendors provide C++ compilers, including 
-            the Free Software Foundation, LLVM, Microsoft, 
-            Intel, Oracle, and IBM, so it is available on 
-            many platforms.</p>
+            many vendors provide C++ compilers. Many popular
+            companies that use C++ are LinkedIn, Facebook, Microsoft,
+            and NASA. C++ is a unique language that it can be used
+            for about anything.</p>
             <div></div>
+            <br>
+            <br>
+            <br>
+            Hyperlinks:
+            <a href="https://www.appdynamics.com/blog/engineering/the-bedrock-of-the-software-world-cpp-programming-language/#:~:text=Well%2Dknown%20tech%20companies%20and,Opera%2C%20NASA%2C%20and%20Facebook.">
+            Companies That Use C++</a>
+            <a href="https://www.softwaretestinghelp.com/cpp-applications/#:~:text=Most%20high%2Dlevel%20machine%20language,sought%2Dafter%20language%20for%20development.">
+            More Information About C++</a>
+            <a href="https://www.edureka.co/blog/what-is-java/">
+            More Information About Java</a>
+            <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript">
+            More Information About JavaScript</a>
+            <a href="https://www.ironhack.com/en/web-development/10-major-companies-using-javascript">
+            Companies That Use JavaScript</a>
+            <a href="https://skillcrush.com/blog/what-is-python-used-for/#:~:text=Python%20is%20a%20general%2Dpurpose,system%20scripts%20among%20other%20things.">More Information About 
+            Python</a>
+            <a href="https://realpython.com/world-class-companies-using-python/">
+            Companies that use Python</a>
         </body>
     </html>

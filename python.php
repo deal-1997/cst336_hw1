@@ -33,16 +33,32 @@
             </p>
             <br>
             <p> Python is an interpreted, high-level and general-purpose 
-            programming language. Created by Guido van Rossum and first 
-            released in 1991, Python's design philosophy emphasizes 
-            code readability with its notable use of significant 
-            whitespace. Its language constructs and object-oriented 
+            programming language that was created
+            by Guido van Rossum and released it in 1991. Its language constructs and object-oriented 
             approach aim to help programmers write clear, 
-            logical code for small and large-scale projects. 
-            Python was created in the late 1980s as a successor 
-            to the ABC language. Python 2.0, released in 2000, 
-            introduced features like list comprehensions and a garbage 
-            collection system with reference counting.</p>
+            logical code for small and large-scale projects, which
+            was created in the late 1980s as a successor 
+            to the ABC language. It can be used for any types of 
+            any kind of development. Companies like Quora, Dropbox,
+            Spotify, and Instagram, are examples. </p>
             <div></div>
+            <br>
+            <br>
+            <br>
+            Hyperlinks:
+            <a href="https://www.appdynamics.com/blog/engineering/the-bedrock-of-the-software-world-cpp-programming-language/#:~:text=Well%2Dknown%20tech%20companies%20and,Opera%2C%20NASA%2C%20and%20Facebook.">
+            Companies That Use C++</a>
+            <a href="https://www.softwaretestinghelp.com/cpp-applications/#:~:text=Most%20high%2Dlevel%20machine%20language,sought%2Dafter%20language%20for%20development.">
+            More Information About C++</a>
+            <a href="https://www.edureka.co/blog/what-is-java/">
+            More Information About Java</a>
+            <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript">
+            More Information About JavaScript</a>
+            <a href="https://www.ironhack.com/en/web-development/10-major-companies-using-javascript">
+            Companies That Use JavaScript</a>
+            <a href="https://skillcrush.com/blog/what-is-python-used-for/#:~:text=Python%20is%20a%20general%2Dpurpose,system%20scripts%20among%20other%20things.">More Information About 
+            Python</a>
+            <a href="https://realpython.com/world-class-companies-using-python/">
+            Companies that use Python</a>
         </body>
     </html>
