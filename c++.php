@@ -22,7 +22,8 @@
         <hr />
         <br>
         <nav>
-    </body>
+    </body> 
+            <p align:"center"></p>
             <a href="index.php">Home</a>
             <a href="c++.php">C++</a>
             <a href="javascript.php">JavaScript</a>
